@@ -1,0 +1,32 @@
+2026-04-18 10:15:23 INFO  Service started
+2026-04-18 10:15:25 INFO  Connection to database established
+
+2026-04-18 10:16:01 ERROR Database connection failed
+2026-04-18 10:16:02 ERROR Database connection failed
+2026-04-18 10:16:05 WARN  Retrying connection
+
+2026-04-18 10:17:10 ERROR Timeout while calling API
+2026-04-18 10:17:11 ERROR Timeout while calling API
+
+2026-04-18 10:18:45 ERROR Database connection failed
+
+2026-04-18 10:19:00 INFO  User login successful
+2026-04-18 10:19:05 ERROR Invalid user input
+
+2026-04-18 10:20:12 ERROR Database connection failed
+2026-04-18 10:20:13 ERROR Database connection failed
+
+2026-04-18 10:21:00 ERROR Timeout while calling API
+
+2026-04-18 10:22:10 INFO  Scheduled job executed
+
+2026-04-18 10:22:15 ERROR Database connection failed
+2026-04-18 10:22:16 ERROR Database connection failed
+
+2026-04-18 10:23:00 ERROR Invalid user input
+
+2026-04-18 10:23
+ERROR Database connection failed
+
+2026-04-18 10:24:10 ERROR Timeout while calling API
+2026-04-18 10:24:11 ERROR Timeout while calling API
