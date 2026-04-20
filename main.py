@@ -7,7 +7,7 @@ LOG_DIR = (
     "."  # aktuelles Verzeichnis, kann angepasst werden, z.B. "logs" oder "/var/logs"
 )
 
-ERROR_PATTERNS = [
+ERROR_PATTERNS = [  # reguläre Ausdrücke, um Fehler zu erkennen, können erweitert werden
     re.compile(r"ERROR[:\s-]*(.*)", re.IGNORECASE),
     re.compile(r"Exception[:\s-]*(.*)", re.IGNORECASE),
 ]
